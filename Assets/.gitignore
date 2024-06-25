@@ -1,0 +1,23 @@
+#Ignore everything
+/*
+
+# But not these files...
+!.gitignore
+!package.png
+!/_Scripts
+!/_Sprites
+!/_Data
+!/_Scenes
+!/_UI
+!/_Animations
+!/_Images
+!/_Player
+!/_Prefabs
+!/_Sounds
+!/_Udemys
+!/_Materials
+
+
+# Assets meta data should only be ignored when the corresponding asset is also ignored
+/[Aa]ssets/**/*.meta
+*.meta
